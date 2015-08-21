@@ -1,4 +1,7 @@
 public class manveen{
-public static void main(){
+public static void main(String []args){
 
-System.out.println("manveen");}}
+System.out.println("manveen kaur tuteja");
+  
+System.out.println("comp A");
+}}
